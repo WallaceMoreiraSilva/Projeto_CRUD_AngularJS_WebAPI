@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CRUD_WebAPI.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/pessoas")]
     public class PessoasContoller : ControllerBase
     {
         private readonly Contexto _contexto;
