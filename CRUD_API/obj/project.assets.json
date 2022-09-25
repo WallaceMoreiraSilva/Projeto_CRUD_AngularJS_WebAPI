@@ -2235,11 +2235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\walla\\OneDrive\\Documentos\\Source\\Front\\CRUD_Angular_WebAPI\\CRUD_API\\CRUD_API.csproj",
+      "projectUniqueName": "C:\\Users\\walla\\OneDrive\\Documentos\\Source\\Projeto_CRUD_AngularJS_WebAPI\\CRUD_API\\CRUD_API.csproj",
       "projectName": "CRUD_API",
-      "projectPath": "C:\\Users\\walla\\OneDrive\\Documentos\\Source\\Front\\CRUD_Angular_WebAPI\\CRUD_API\\CRUD_API.csproj",
+      "projectPath": "C:\\Users\\walla\\OneDrive\\Documentos\\Source\\Projeto_CRUD_AngularJS_WebAPI\\CRUD_API\\CRUD_API.csproj",
       "packagesPath": "C:\\Users\\walla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\walla\\OneDrive\\Documentos\\Source\\Front\\CRUD_Angular_WebAPI\\CRUD_API\\obj\\",
+      "outputPath": "C:\\Users\\walla\\OneDrive\\Documentos\\Source\\Projeto_CRUD_AngularJS_WebAPI\\CRUD_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
