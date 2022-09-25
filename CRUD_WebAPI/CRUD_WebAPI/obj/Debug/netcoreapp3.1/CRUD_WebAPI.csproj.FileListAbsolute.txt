@@ -1,8 +1,3 @@
-C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.AssemblyInfoInputs.cache
-C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.AssemblyInfo.cs
-C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\bin\Debug\netcoreapp3.1\CRUD_WebAPI.exe
@@ -51,6 +46,11 @@ C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_Web
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.AssemblyInfoInputs.cache
+C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.AssemblyInfo.cs
+C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\CRUD_WebAPI.StaticWebAssets.Manifest.cache
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\CRUD_WebAPI.StaticWebAssets.xml
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUD_WebAPI.styles.css
@@ -59,3 +59,4 @@ C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_Web
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.dll
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.pdb
 C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.genruntimeconfig.cache
+C:\Users\walla\OneDrive\Documentos\Source\Projeto_CRUD_AngularJS_WebAPI\CRUD_WebAPI\CRUD_WebAPI\obj\Debug\netcoreapp3.1\CRUD_WebAPI.csproj.AssemblyReference.cache

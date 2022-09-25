@@ -26,10 +26,8 @@ namespace CRUD_WebAPI.Controllers
         [HttpGet("{pessoaId}")]
         public async Task<ActionResult<Pessoa>> PegarPessoaPeloIdAsync(int pessoaId)
         {
-            Pessoa pessoa = await _contexto.Pessoas.FindAsync(pessoaId);
-
+            Pessoa pessoa = await _contexto.Pessoas.FindAsync(pessoaId);            
             if (pessoa == null) return NotFound();
-
             return pessoa;
         }
 
