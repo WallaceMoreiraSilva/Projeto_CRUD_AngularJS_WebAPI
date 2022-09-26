@@ -46,6 +46,8 @@ namespace CRUD_WebAPI
 
             app.UseRouting();
 
+            app.UseCors(opcoes => opcoes.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
