@@ -47,7 +47,7 @@ namespace CRUD_WebAPI.Controllers
             return Ok();
         }
 
-        [HttpPut("{pessoaId}")]
+        [HttpDelete("{pessoaId}")]
         public async Task<ActionResult> DeletarPessoaAsync(int pessoaId)
         {
             Pessoa pessoa = await _contexto.Pessoas.FindAsync(pessoaId);
