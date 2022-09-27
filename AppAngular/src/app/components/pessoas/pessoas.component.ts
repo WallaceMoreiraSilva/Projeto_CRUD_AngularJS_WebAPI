@@ -15,6 +15,7 @@ export class PessoasComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    this.tituloFormulario = "Nova Pessoa";
     this.formulario = new FormGroup({
       nome: new FormControl(null),
       sobrenome: new FormControl(null),
